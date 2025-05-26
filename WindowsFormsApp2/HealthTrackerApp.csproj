@@ -53,6 +53,7 @@
       <DependentUpon>HealthForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\HealthManager.cs" />
+    <Compile Include="Models\ReportForm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
