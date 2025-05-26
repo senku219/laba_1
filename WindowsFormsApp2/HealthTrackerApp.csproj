@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Models\ActivityRecord.cs" />
     <Compile Include="Models\HealthManager.cs" />
+    <Compile Include="Models\NutritionRecord.cs" />
     <Compile Include="Models\ReportForm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
