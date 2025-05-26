@@ -52,6 +52,7 @@
     <Compile Include="HealthForm.Designer.cs">
       <DependentUpon>HealthForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\ActivityRecord.cs" />
     <Compile Include="Models\HealthManager.cs" />
     <Compile Include="Models\ReportForm.cs" />
     <Compile Include="Program.cs" />
